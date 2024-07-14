@@ -62,3 +62,4 @@ const displayPhone = (data) =>{
     });
     loadingAnimationTogol(false);
 };
+console.log("helo js!!")
